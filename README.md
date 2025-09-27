@@ -12,7 +12,8 @@ The main deliverable is the **`.fig` (Figma) file**, which includes:
 ---
 
 Usage
-You are welcome to copy, adapt, and modify the design according to your preferences.  
+You are welcome to copy, adapt, and modify the design according to your preferences.
+Visit this link for the work itself: https://github.com/Bigshelly/smart-gear/
 
 ---
 
